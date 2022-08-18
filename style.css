@@ -111,7 +111,7 @@ article {
   text-transform: uppercase;
 }
 .hero-info h1 {
-  color: var(--white);
+  color: var(--black);
   font-size: clamp(3.2rem, 10vw, 7rem);
   line-height: clamp(3.2rem, 10vw, 7rem);
   text-transform: uppercase;
